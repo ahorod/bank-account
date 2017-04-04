@@ -1,0 +1,13 @@
+#updateForm, #balance {
+  display: none;
+}
+
+
+.accounts {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.accounts:hover {
+  text-decoration: underline;
+}
